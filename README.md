@@ -98,5 +98,6 @@
       </span></a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/abdulhakeem19/output/snake.svg" alt="Snake animation" />
+  <img src="  https://github.com/abdulhakeem19/abdulhakeem19/blob/output/github-contribution-grid-snake.svg
+" alt="Snake animation" />
   

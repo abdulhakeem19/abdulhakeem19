@@ -97,4 +97,6 @@
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhakeem19&theme=github_dark" width="100%" />
       </span></a>
   </p>
+
+  <img src="https://raw.githubusercontent.com/abdulhakeem19/abdulhakeem19/output/snake.svg" alt="Snake animation" />
   

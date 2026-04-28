@@ -80,3 +80,10 @@ Global B2B marketplace
 ---
 
 ⭐ If you like my work, feel free to explore my repositories!
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhakeem19&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhakeem19&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=abdulhakeem19)
